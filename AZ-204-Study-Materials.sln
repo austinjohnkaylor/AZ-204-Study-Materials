@@ -14,28 +14,64 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microsoft Learning Paths", 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement Azure App Service web apps", "Implement Azure App Service web apps", "{FDB9ACA8-54BF-4964-9F5D-CC4911911F81}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Implement Azure App Service web apps\README.md = Microsoft Learning Paths\Implement Azure App Service web apps\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement Azure Functions", "Implement Azure Functions", "{3508FA39-68E2-454B-8019-4F825C7D5A4F}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Implement Azure Functions\README.md = Microsoft Learning Paths\Implement Azure Functions\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop solutions that use Blob storage", "Develop solutions that use Blob storage", "{5B1A10D8-D6F6-4914-AC06-2AE91ACA06F4}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Develop solutions that use Blob storage\README.md = Microsoft Learning Paths\Develop solutions that use Blob storage\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop solutions that use Cosmos DB storage", "Develop solutions that use Cosmos DB storage", "{66279C33-E384-4A11-83A8-9C9D36BD6995}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Develop solutions that use Cosmos DB storage\README.md = Microsoft Learning Paths\Develop solutions that use Cosmos DB storage\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement containerized solutions", "Implement containerized solutions", "{9B87E7B7-D392-447E-B8C3-D6C7E4CB6DF0}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Implement containerized solutions\README.md = Microsoft Learning Paths\Implement containerized solutions\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement user authentication and authorization", "Implement user authentication and authorization", "{1FC636CF-3806-41EB-B2B1-779D3240F069}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Implement user authentication and authorization\README.md = Microsoft Learning Paths\Implement user authentication and authorization\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement secure cloud solutions", "Implement secure cloud solutions", "{E4D85F56-8FF7-4704-B308-EA66862E48EF}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Implement secure cloud solutions\README.md = Microsoft Learning Paths\Implement secure cloud solutions\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement API Management", "Implement API Management", "{54D5AAB8-A401-4BA7-9696-BEC33C9CE530}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Implement API Management\README.md = Microsoft Learning Paths\Implement API Management\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop event-based solutions", "Develop event-based solutions", "{B4A05D67-E5BA-4999-97F9-A008FC7DD975}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Develop event-based solutions\README.md = Microsoft Learning Paths\Develop event-based solutions\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop message-based solutions", "Develop message-based solutions", "{BFB370B9-D391-49EF-A143-3FDE33384AFF}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Develop message-based solutions\README.md = Microsoft Learning Paths\Develop message-based solutions\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Troubleshoot solutions by using Application Insights", "Troubleshoot solutions by using Application Insights", "{3D797CDC-FB3E-45FB-AA95-712FF97076A8}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Troubleshoot solutions by using Application Insights\README.md = Microsoft Learning Paths\Troubleshoot solutions by using Application Insights\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement caching for solutions", "Implement caching for solutions", "{700AEFBF-E3BF-46A4-893C-FEB872AF697D}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft Learning Paths\Implement caching for solutions\README.md = Microsoft Learning Paths\Implement caching for solutions\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
