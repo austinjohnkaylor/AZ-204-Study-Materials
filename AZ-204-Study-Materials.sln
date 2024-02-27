@@ -15,6 +15,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microsoft Learning Paths", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement Azure App Service web apps", "Implement Azure App Service web apps", "{FDB9ACA8-54BF-4964-9F5D-CC4911911F81}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement Azure Functions", "Implement Azure Functions", "{3508FA39-68E2-454B-8019-4F825C7D5A4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop solutions that use Blob storage", "Develop solutions that use Blob storage", "{5B1A10D8-D6F6-4914-AC06-2AE91ACA06F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop solutions that use Cosmos DB storage", "Develop solutions that use Cosmos DB storage", "{66279C33-E384-4A11-83A8-9C9D36BD6995}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement containerized solutions", "Implement containerized solutions", "{9B87E7B7-D392-447E-B8C3-D6C7E4CB6DF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement user authentication and authorization", "Implement user authentication and authorization", "{1FC636CF-3806-41EB-B2B1-779D3240F069}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement secure cloud solutions", "Implement secure cloud solutions", "{E4D85F56-8FF7-4704-B308-EA66862E48EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement API Management", "Implement API Management", "{54D5AAB8-A401-4BA7-9696-BEC33C9CE530}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop event-based solutions", "Develop event-based solutions", "{B4A05D67-E5BA-4999-97F9-A008FC7DD975}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop message-based solutions", "Develop message-based solutions", "{BFB370B9-D391-49EF-A143-3FDE33384AFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Troubleshoot solutions by using Application Insights", "Troubleshoot solutions by using Application Insights", "{3D797CDC-FB3E-45FB-AA95-712FF97076A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement caching for solutions", "Implement caching for solutions", "{700AEFBF-E3BF-46A4-893C-FEB872AF697D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +47,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FDB9ACA8-54BF-4964-9F5D-CC4911911F81} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{3508FA39-68E2-454B-8019-4F825C7D5A4F} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{5B1A10D8-D6F6-4914-AC06-2AE91ACA06F4} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{66279C33-E384-4A11-83A8-9C9D36BD6995} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{9B87E7B7-D392-447E-B8C3-D6C7E4CB6DF0} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{1FC636CF-3806-41EB-B2B1-779D3240F069} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{E4D85F56-8FF7-4704-B308-EA66862E48EF} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{54D5AAB8-A401-4BA7-9696-BEC33C9CE530} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{B4A05D67-E5BA-4999-97F9-A008FC7DD975} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{BFB370B9-D391-49EF-A143-3FDE33384AFF} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{3D797CDC-FB3E-45FB-AA95-712FF97076A8} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
+		{700AEFBF-E3BF-46A4-893C-FEB872AF697D} = {F11196ED-FE3D-4F4F-A1C0-69ADB3DC073A}
 	EndGlobalSection
 EndGlobal
