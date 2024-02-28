@@ -13,7 +13,6 @@
 - [Explore Azure App Service Deployment Slots](#explore-azure-app-service-deployment-slots)
 
 # [Explore Azure App Service](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/)
-Learn about the key components of Azure App Service and how App Service can help you create, maintain, and deploy web apps more efficiently.
 
 # [Configure Web App Settings](https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/)
 
